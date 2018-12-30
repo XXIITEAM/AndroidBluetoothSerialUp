@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidBluetoothSerialUp.iml" filepath="$PROJECT_DIR$/AndroidBluetoothSerialUp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidBluetoothSerialUp/androidBluetoothSerialUp.iml" filepath="$PROJECT_DIR$/AndroidBluetoothSerialUp/androidBluetoothSerialUp.iml" />
+    </modules>
+  </component>
+</project>
